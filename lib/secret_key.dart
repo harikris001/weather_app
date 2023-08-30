@@ -1,0 +1,1 @@
+const weatherApi = 'USE_API_FROM_OPEN_WEATHER';
