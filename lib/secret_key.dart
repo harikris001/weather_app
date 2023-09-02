@@ -1,1 +1,1 @@
-const weatherApi = 'USE_API_FROM_OPEN_WEATHER';
+const weatherApi = 'c500caaa5331319606b9650c27a28799';
